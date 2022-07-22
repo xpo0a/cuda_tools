@@ -1,4 +1,4 @@
 # cuda_tools
-Some useful tools of cuda programming with comment.
+Some useful tools of cuda Parallel computing with c++ or python.
 
 ### 0_matrixMul
