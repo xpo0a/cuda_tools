@@ -9,6 +9,10 @@
 3.```./matrix_mul```
 ---
 
+## matrix store in a continuous memory
+![image](https://github.com/xpo0a/cuda_tools/blob/main/0_matrixMul/pit/array_2to1.png)
+---
+
 ## gpu_memory
 ![image](https://github.com/xpo0a/cuda_tools/blob/main/0_matrixMul/pit/gpu_memory.png)
 ---
