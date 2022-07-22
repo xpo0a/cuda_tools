@@ -6,7 +6,7 @@
 ## how to run
 1. change the path of nvcc in MakeFile
 2. ```make```
-3.```./matrix_mul```
+3. ```./matrix_mul```
 ---
 
 ## matrix store in a continuous memory
